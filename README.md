@@ -1,4 +1,4 @@
-## Cloud Resume Project - back-end
+## Cloud Resume Project - backend
 
 This repository exclusively contains the back-end code of my Cloud Resume Website, streamlined for straightforward deployment. The project highlights my proficiency in cloud computing, showcasing the various AWS tools I've utilized.
 
